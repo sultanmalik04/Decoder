@@ -1,0 +1,6 @@
+garry = map(int, input().split())
+sharry = map(int, input().split())
+g_sum = sum(garry)
+s_sum = sum(sharry)
+diff = abs(g_sum-s_sum)
+print(None if not diff else 'Garry' if g_sum > s_sum else 'Sharry', diff)
