@@ -1,3 +1,5 @@
+#Python
+
 ```python
     n, k = map(int, input().split())
     marks = list(map(int, input().split()))
@@ -9,6 +11,8 @@
         max_sum = max(cur_sum, max_sum)
     print(max_sum)
 ```
+
+#python
 
 ```java
     import java.util.*;
@@ -36,5 +40,5 @@
         }
         System.out.println(max_sum);
         }
-    }
+}
 ```
