@@ -1,4 +1,4 @@
-#Python
+## Python
 
 ```python
     n, k = map(int, input().split())
@@ -12,7 +12,7 @@
     print(max_sum)
 ```
 
-#python
+## Java
 
 ```java
     import java.util.*;
